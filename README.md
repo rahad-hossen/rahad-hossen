@@ -8,6 +8,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahad-hossen&label=Profile%20views&color=0e75b6&style=flat" alt="rahad-hossen" /> </p>
 
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=🤝+Let’s+Collaborate)
+- I'm open to working on exciting Android projects and learning from the developer community. Feel free to connect with me here on GitHub!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=firadfd&label=Profile%20views&color=0e75b6&style=flat" alt="rahad-hossen" />
+  <img src="https://img.shields.io/github/followers/firadfd?label=Follow&style=social" alt="rahad-hossen" />
+</p>
+
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&center=true&width=435&lines=📊+GitHub+Stats" alt="Typing SVG" />
+</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=labib-ur-rahman&show_icons=true&theme=radical" alt="GitHub stats" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahad-hossen&layout=compact&theme=radical" alt="Top Languages" width="225"/>
+  <img src="https://streak-stats.demolab.com/?user=rahad-hossen&theme=radical" alt="GitHub Streak" width="310"/>
+</p>
+
+---
+
+
 - 🔭 I’m currently working on [Offer Lagbe](https://rhrahadtec.xyz/OfferLagbe/)
 
 - 🌱 I’m currently learning **Flutter**
