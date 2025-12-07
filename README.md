@@ -6,13 +6,13 @@
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=🌱+What+I’m+Learning)
 - Continuously exploring advanced Android development techniques, libraries and best practices to improve app performance and architecture. And most importantly, I’m focusing on Flutter.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahad-hossen&label=Profile%20views&color=0e75b6&style=flat" alt="rahad-hossen" /> </p>
+
 
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=🤝+Let’s+Collaborate)
 - I'm open to working on exciting Android projects and learning from the developer community. Feel free to connect with me here on GitHub!
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=firadfd&label=Profile%20views&color=0e75b6&style=flat" alt="rahad-hossen" />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahad-hossen&label=Profile%20views&color=0e75b6&style=flat" alt="rahad-hossen" /> </p>
   <img src="https://img.shields.io/github/followers/firadfd?label=Follow&style=social" alt="rahad-hossen" />
 </p>
 
