@@ -17,17 +17,6 @@
 </p>
 
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&center=true&width=435&lines=📊+GitHub+Stats" alt="Typing SVG" />
-</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahad-hossen&show_icons=true&theme=radical" alt="GitHub stats" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahad-hossen&layout=compact&theme=radical" alt="Top Languages" width="225"/>
-  <img src="https://streak-stats.demolab.com/?user=rahad-hossen&theme=radical" alt="GitHub Streak" width="310"/>
-</p>
-
----
-
 
 - 🔭 I’m currently working on [Offer Lagbe](https://rhrahadtec.xyz/OfferLagbe/)
 
