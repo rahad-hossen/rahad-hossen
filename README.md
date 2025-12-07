@@ -3,6 +3,9 @@
 
 ![](https://github.com/rahad-hossen/rahad-hossen/blob/main/convert_image.jpg)
 
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=🌱+What+I’m+Learning)
+- Continuously exploring advanced Android development techniques, libraries and best practices to improve app performance and architecture. And most importantly, I’m focusing on Flutter.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahad-hossen&label=Profile%20views&color=0e75b6&style=flat" alt="rahad-hossen" /> </p>
 
 - 🔭 I’m currently working on [Offer Lagbe](https://rhrahadtec.xyz/OfferLagbe/)
