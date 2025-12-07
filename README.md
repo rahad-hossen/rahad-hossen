@@ -31,8 +31,6 @@
 
 - 🔭 I’m currently working on [Offer Lagbe](https://rhrahadtec.xyz/OfferLagbe/)
 
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **rahadtechverse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
