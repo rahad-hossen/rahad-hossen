@@ -13,7 +13,6 @@
 
 <p align="center">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahad-hossen&label=Profile%20views&color=0e75b6&style=flat" alt="rahad-hossen" /> </p>
-  <img src="https://img.shields.io/github/followers/firadfd?label=Follow&style=social" alt="rahad-hossen" />
 </p>
 
 
