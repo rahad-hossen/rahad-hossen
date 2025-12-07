@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahad</h1>
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=👋+Hi,+I'm+Rahad)
 <h3 align="center">🇧🇩 Full Stack Developer crafting high-performance Mobile Apps. Expert in Clean Architecture and Software Solutions.</h3>
 
 ![](https://github.com/rahad-hossen/rahad-hossen/blob/main/convert_image.jpg)
